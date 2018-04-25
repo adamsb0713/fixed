@@ -25,5 +25,5 @@
   plot(plotData);
   
   cat("The scatterplot shows that there is the most correlation between wind speed and temperature departure in 
-      wind speed range of 5-10mph and temperature departure of 0-10 F")
+      wind speed range of 5-10mph and temperature departure of 0-10 F") 
 }
